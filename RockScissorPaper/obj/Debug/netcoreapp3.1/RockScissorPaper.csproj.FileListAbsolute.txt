@@ -1,0 +1,13 @@
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\bin\Debug\netcoreapp3.1\RockScissorPaper.exe
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\bin\Debug\netcoreapp3.1\RockScissorPaper.deps.json
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\bin\Debug\netcoreapp3.1\RockScissorPaper.runtimeconfig.json
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\bin\Debug\netcoreapp3.1\RockScissorPaper.runtimeconfig.dev.json
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\bin\Debug\netcoreapp3.1\RockScissorPaper.dll
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\bin\Debug\netcoreapp3.1\RockScissorPaper.pdb
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\obj\Debug\netcoreapp3.1\RockScissorPaper.csproj.AssemblyReference.cache
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\obj\Debug\netcoreapp3.1\RockScissorPaper.AssemblyInfoInputs.cache
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\obj\Debug\netcoreapp3.1\RockScissorPaper.AssemblyInfo.cs
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\obj\Debug\netcoreapp3.1\RockScissorPaper.csproj.CoreCompileInputs.cache
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\obj\Debug\netcoreapp3.1\RockScissorPaper.dll
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\obj\Debug\netcoreapp3.1\RockScissorPaper.pdb
+C:\Users\Pranay Mishra\source\repos\RockScissorPaper\RockScissorPaper\obj\Debug\netcoreapp3.1\RockScissorPaper.genruntimeconfig.cache
